@@ -73,7 +73,7 @@
 
 #### 前端框架与库研究
 1. vue学习记录
-2. vue响应式原理及实现
+2. [vue响应式原理及实现](https://github.com/ftTony/blog/issues/18)
 1. vuex原理及源码分析
 2. [如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13)
 3. Diff算法
